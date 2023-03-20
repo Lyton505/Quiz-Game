@@ -3,6 +3,8 @@
 Final Project for Kibo's Future Perfect with Python programming.
 
 
+
+
 ## Project Authors
 
 - Lyton Mhlanga
@@ -17,6 +19,10 @@ This is a multiple choice Geography quiz game that utilizes the Trivia API to ge
 https://drive.google.com/file/d/1zJJGvycg0x3bmkneQzr1gLFFEUDCc3Gj/view?usp=sharing
 
 ## License
+
+<!-- [[Tutorialsplanet.NET] Udemy - The Complete Android 12 & Kotlin Development Masterclass.torrent.txt](https://github.com/Lyton505/Quiz-Game/files/11023889/Tutorialsplanet.NET.Udemy.-.The.Complete.Android.12.Kotlin.Development.Masterclass.torrent.txt) -->
+
+
 
 Copyright **2023** **Lyton Mhlanga**
 
