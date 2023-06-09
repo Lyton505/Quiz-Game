@@ -1,8 +1,6 @@
 # Final Project
 
-Final Project for Kibo's Future Perfect with Python programming.
-
-
+Final Project for Stanford's Code in Place Introduction to Python programming.
 
 
 ## Project Authors
