@@ -16,7 +16,8 @@ This is a multiple-choice quiz game that utilizes the Trivia API to get question
 
 <div align="left">
       <a href="https://youtu.be/O3dRPnht1SE">
-         <img src="![Screenshot from 2023-06-18 14-46-31](https://github.com/Lyton505/Quiz-Game/assets/65817176/53b35a07-bbf2-4617-8637-6dfe6d8411f9)" style="width:100%;">
+         <img src="![Screenshot from 2023-06-18 14-46-31](https://github.com/Lyton505/Quiz-Game/assets/65817176/8538c4af-733e-4f34-9523-a1637517b8e8)
+" style="width:100%;">
       </a>
 </div>
 
