@@ -14,10 +14,8 @@ This is a multiple-choice quiz game that utilizes the Trivia API to get question
 
 ## Video walkthrough
 
-      <a href="https://youtu.be/O3dRPnht1SE">
-         <img src="![Screenshot from 2023-06-18 14-46-31](https://github.com/Lyton505/Quiz-Game/assets/65817176/8538c4af-733e-4f34-9523-a1637517b8e8)">
-      </a>
-
+Click the link for video walkthrough: https://youtu.be/O3dRPnht1SE
+      
 ## License
 
 
