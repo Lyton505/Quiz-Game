@@ -15,7 +15,7 @@ This is a multiple-choice quiz game that utilizes the Trivia API to get question
 ## Video walkthrough
 
 <div align="left">
-      <a href="https://youtu.be/O3dRPnht1SE">
+      <a href="![Screenshot from 2023-06-18 14-46-31](https://github.com/Lyton505/Quiz-Game/assets/65817176/53b35a07-bbf2-4617-8637-6dfe6d8411f9)">
          <img src="https://img.youtube.com/vi/O3dRPnht1SE/0.jpg" style="width:100%;">
       </a>
 </div>
