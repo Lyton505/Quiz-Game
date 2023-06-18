@@ -1,6 +1,6 @@
 # Final Project
 
-Final Project for Stanford's Code in Place Introduction to Python programming.
+Final Project for Stanford's Code in Place Introduction to Python Programming.
 
 
 ## Project Authors
@@ -10,16 +10,17 @@ Final Project for Stanford's Code in Place Introduction to Python programming.
 
 ## Description
 
-This is a multiple choice Geography quiz game that utilizes the Trivia API to get questions and answers. Users can choose any number of questions, starting from 1 to 275 questions(I dare you to do 275!). The questions are of varying levels of difficulty. After each question, a player can choose to quit or continue.
+This is a multiple-choice quiz game that utilizes the Trivia API to get questions and answers. Users can choose any number of questions, starting from 1 to 25 questions(I dare you to do 25!). The questions are of varying levels of difficulty.
 
 ## Video walkthrough
 
-https://drive.google.com/file/d/1zJJGvycg0x3bmkneQzr1gLFFEUDCc3Gj/view?usp=sharing
+<div align="left">
+      <a href="https://youtu.be/O3dRPnht1SE">
+         <img src="https://img.youtube.com/vi/O3dRPnht1SE/0.jpg" style="width:100%;">
+      </a>
+</div>
 
 ## License
-
-<!-- [[Tutorialsplanet.NET] Udemy - The Complete Android 12 & Kotlin Development Masterclass.torrent.txt](https://github.com/Lyton505/Quiz-Game/files/11023889/Tutorialsplanet.NET.Udemy.-.The.Complete.Android.12.Kotlin.Development.Masterclass.torrent.txt) -->
-
 
 
 Copyright **2023** **Lyton Mhlanga**
